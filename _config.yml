@@ -1,4 +1,4 @@
-name: aTeaSaloon
+name: aTeas
 favicon: null
 layout_spectrum: 0.7423238174524158
 typography_spectrum: 0.05683929962106049
@@ -17,13 +17,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#9D2D3C'
-    - '#DDE4DD'
-    - '#BCAB47'
-    - '#6B574B'
-    - '#160600'
-  brandStrength: 0.01120719755999744
+    - '#010101'
+    - '#d1d8eb'
+    - '#6287b4'
+    - '#204164'
+    - '#889b0e'
+  brandStrength: 0.6875
   lightness: 0.9507684845011681
-  saturation: 0.20385150774382055
-  rhythmicContrast: 0.5357751238625497
+  saturation: 0.5
+  rhythmicContrast: 0.75
 purpose: []
