@@ -1,29 +1,41 @@
-name: aTeas
-favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.77637
 title: aTeas
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 1
+  brandStrength: 0.6875
+  lightness: 1
   brandColors:
     - '#010101'
     - '#d1d8eb'
     - '#6287b4'
     - '#204164'
     - '#889b0e'
-  brandStrength: 0.6875
-  lightness: 0.9507684845011681
-  saturation: 0.5
-  rhythmicContrast: 0.75
-purpose: []
+  rhythmicContrast: 0.3431793
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+name: aTeas
+favicon: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.77637
+layout_spectrum: 1
