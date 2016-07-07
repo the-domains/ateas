@@ -4,21 +4,21 @@
         <description><![CDATA[aTeas]]></description>
         <link>https://thegrid.ai/ateas/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 07 Jul 2016 13:50:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Jul 2016 13:54:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ateas/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/08fe11a7-1472-410b-8790-95edd3827aac.jpg">]]></description>
+            <link>https://thegrid.ai/ateas/35fc9846-59cc-4318-8f82-8ebdd138a76f/index.html</link>
+            <guid isPermaLink="false">35fc9846-59cc-4318-8f82-8ebdd138a76f</guid>
+            <pubDate>Thu, 07 Jul 2016 13:54:13 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7d3888e6-3ec0-4167-adc2-09cbb2e1139e.jpg">]]></description>
             <link>https://thegrid.ai/ateas/the-silk-road-was-born/index.html</link>
             <guid isPermaLink="false">1a0fbc72-db05-46ab-98ba-c009e1670e7a</guid>
             <pubDate>Thu, 07 Jul 2016 13:50:21 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/08fe11a7-1472-410b-8790-95edd3827aac.jpg">]]></description>
-            <link>https://thegrid.ai/ateas/35fc9846-59cc-4318-8f82-8ebdd138a76f/index.html</link>
-            <guid isPermaLink="false">35fc9846-59cc-4318-8f82-8ebdd138a76f</guid>
-            <pubDate>Thu, 07 Jul 2016 13:44:26 GMT</pubDate>
         </item>
     </channel>
 </rss>
