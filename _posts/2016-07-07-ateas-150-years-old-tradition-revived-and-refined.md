@@ -1,18 +1,18 @@
 ---
 inFeed: true
 hasPage: true
-inNav: false
+inNav: true
 inLanguage: null
 keywords: []
 description: 'aTeas 150 years old tradition revived and refined '
-datePublished: '2016-07-07T14:03:42.419Z'
-dateModified: '2016-07-07T14:03:37.769Z'
+datePublished: '2016-07-07T14:44:04.593Z'
+dateModified: '2016-07-07T14:38:07.527Z'
 title: ''
 author: []
+sourcePath: _posts/2016-07-07-ateas-150-years-old-tradition-revived-and-refined.md
 authors: []
 publisher: null
-starred: false
-sourcePath: _posts/2016-07-07-ateas-150-years-old-tradition-revived-and-refined.md
+starred: true
 url: ateas-150-years-old-tradition-revived-and-refined/index.html
 _type: Article
 
