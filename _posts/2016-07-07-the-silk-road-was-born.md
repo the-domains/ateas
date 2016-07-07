@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: The silk road was born
-datePublished: '2016-07-07T15:14:13.020Z'
-dateModified: '2016-07-07T14:47:29.256Z'
+datePublished: '2016-07-07T15:16:15.633Z'
+dateModified: '2016-07-07T15:14:22.198Z'
 title: ''
 author: []
 sourcePath: _posts/2016-07-07-the-silk-road-was-born.md
