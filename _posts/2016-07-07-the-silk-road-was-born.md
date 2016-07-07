@@ -5,8 +5,8 @@ inNav: false
 inLanguage: null
 keywords: []
 description: Roots of The Silk Road
-datePublished: '2016-07-07T15:19:30.354Z'
-dateModified: '2016-07-07T15:19:04.885Z'
+datePublished: '2016-07-07T15:23:35.691Z'
+dateModified: '2016-07-07T15:19:38.954Z'
 title: ''
 author: []
 sourcePath: _posts/2016-07-07-the-silk-road-was-born.md
