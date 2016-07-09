@@ -4,7 +4,7 @@
         <description><![CDATA[aTeas]]></description>
         <link>https://thegrid.ai/ateas/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Jul 2016 09:24:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jul 2016 09:25:37 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ateas/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -19,6 +19,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/7a83e90c-757a-4818-88d7-18dbfff57548.jpg</link>
             <guid isPermaLink="false">ffd01771-64a7-4186-acb5-ec13d451e300</guid>
             <pubDate>Sat, 09 Jul 2016 08:16:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bloom]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a4f8cd12-d2ad-422d-aea9-3202fe1cc0d8.jpg">]]></description>
+            <link>https://thegrid.ai/ateas/bloom/index.html</link>
+            <guid isPermaLink="false">d46d285e-9c73-46ea-86ad-45ce78460738</guid>
+            <pubDate>Sat, 09 Jul 2016 09:25:34 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Virgin]]></title>
@@ -40,13 +47,6 @@
             <link>https://thegrid.ai/ateas/sui-generis/index.html</link>
             <guid isPermaLink="false">6a047502-faea-4254-bdd3-976a9a4f8b56</guid>
             <pubDate>Sat, 09 Jul 2016 09:20:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bloom]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a4f8cd12-d2ad-422d-aea9-3202fe1cc0d8.jpg">]]></description>
-            <link>https://thegrid.ai/ateas/bloom/index.html</link>
-            <guid isPermaLink="false">d46d285e-9c73-46ea-86ad-45ce78460738</guid>
-            <pubDate>Sat, 09 Jul 2016 09:20:08 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
