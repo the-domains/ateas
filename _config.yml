@@ -1,7 +1,7 @@
 name: aTeas
 favicon: null
-layout_spectrum: 1
-typography_spectrum: 0.47087
+layout_spectrum: 0.203570154029876
+typography_spectrum: 0.32280511828139424
 title: aTeas
 collections:
   - index:
@@ -29,13 +29,13 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#010101'
-    - '#d1d8eb'
-    - '#6287b4'
-    - '#204164'
-    - '#889b0e'
-  brandStrength: 0.6875
-  lightness: 1
-  saturation: 0.1875
-  rhythmicContrast: 0.3431793
+    - '#36362C'
+    - '#5D917D'
+    - '#A8AD80'
+    - '#E6D4A7'
+    - '#825534'
+  brandStrength: 0.13428691495209932
+  lightness: 0.10931874183006585
+  saturation: 0.9677282427437603
+  rhythmicContrast: 0.15979467518627644
 purpose: []
