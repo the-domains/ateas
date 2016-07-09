@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-07-09T09:20:50.669Z'
+datePublished: '2016-07-09T09:29:02.822Z'
 sourcePath: _posts/2016-07-09-sui-generis.md
 inFeed: true
 authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-07-09T09:20:39.216Z'
+dateModified: '2016-07-09T09:28:56.238Z'
 title: ''
 publisher: null
 description: Sui Generis
@@ -21,7 +21,7 @@ _type: Article
 
 Sui Generis
 
-Rare Singles
+Limited Singles
 
 A collection of rare finds so you can enjoy, rather than dig, like a museum.
 
