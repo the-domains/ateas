@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-09T08:03:05.183Z'
+datePublished: '2016-07-09T08:03:31.289Z'
 sourcePath: _posts/2016-07-07-ateas-150-years-old-tradition-revived-and-refined.md
 inFeed: true
 isBasedOnUrl: >-
@@ -8,7 +8,7 @@ authors: []
 hasPage: false
 keywords: []
 author: []
-dateModified: '2016-07-09T08:02:52.677Z'
+dateModified: '2016-07-09T08:03:27.888Z'
 title: ''
 publisher: null
 description: >-
@@ -33,7 +33,7 @@ Now the same moment has returned, expression for art as The Renaissance bought b
 
 Out of this collective consciousness to find balance, the world found itself drawn to Michelangelo, Raphael, Da Vinci and the masters of High Renaissance, just as today we look at Apple Inc., the startups, designers, architects, and your hip new neighborhood store.
 
-Out of this, our 150 year old family mark is reborn to give you 
+Out of this, our 150 year old family mark is reborn to give you
 
 the finest tea.  
 -aTea Saloon-
