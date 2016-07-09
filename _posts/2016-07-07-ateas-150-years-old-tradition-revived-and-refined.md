@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-09T07:53:55.840Z'
+datePublished: '2016-07-09T07:57:47.820Z'
 sourcePath: _posts/2016-07-07-ateas-150-years-old-tradition-revived-and-refined.md
 inFeed: true
 isBasedOnUrl: >-
@@ -8,17 +8,17 @@ authors: []
 hasPage: false
 keywords: []
 author: []
-dateModified: '2016-07-09T07:53:44.716Z'
+dateModified: '2016-07-09T07:57:40.858Z'
 title: ''
 publisher: null
-description: aTea Saloon 150 years old tradition revived
+description: 150 years old tradition revived
 inLanguage: null
 inNav: false
 starred: false
 _type: MediaObject
 
 ---
-aTea Saloon 150 years old tradition revived
+150 years old tradition revived
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7a83e90c-757a-4818-88d7-18dbfff57548.jpg)
 
 History is a funny thing, the more things change, the more they stay the same.  
@@ -31,3 +31,5 @@ Mass production was simply impossible, until it is, Industrial Revolution seemed
 Now the same moment has returned, expression for art as The Renaissance bought back balance to mankind during The Dark Ages. We no longer demand dollar t-shirts that are poorly made, throw away razors that simply doesn't work, and drinks that are fast but taste horrifying.
 
 Out of this collective consciousness to find balance, the world found itself drawn to Michelangelo, Raphael, Da Vinci and the masters of High Renaissance, just as today we look at Apple Inc., the startups, designers, architects, and your hip new neighborhood store.
+
+Out of this, our family mark aTea Saloon was reborn.
