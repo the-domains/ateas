@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-09T07:57:47.820Z'
+datePublished: '2016-07-09T08:03:05.183Z'
 sourcePath: _posts/2016-07-07-ateas-150-years-old-tradition-revived-and-refined.md
 inFeed: true
 isBasedOnUrl: >-
@@ -8,17 +8,18 @@ authors: []
 hasPage: false
 keywords: []
 author: []
-dateModified: '2016-07-09T07:57:40.858Z'
+dateModified: '2016-07-09T08:02:52.677Z'
 title: ''
 publisher: null
-description: 150 years old tradition revived
+description: >-
+  History is a funny thing, the more things change, the more they stay the same.
+  - Hendrick Willem van Loon, The Story of Mankind -
 inLanguage: null
 inNav: false
 starred: false
 _type: MediaObject
 
 ---
-150 years old tradition revived
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7a83e90c-757a-4818-88d7-18dbfff57548.jpg)
 
 History is a funny thing, the more things change, the more they stay the same.  
@@ -32,4 +33,7 @@ Now the same moment has returned, expression for art as The Renaissance bought b
 
 Out of this collective consciousness to find balance, the world found itself drawn to Michelangelo, Raphael, Da Vinci and the masters of High Renaissance, just as today we look at Apple Inc., the startups, designers, architects, and your hip new neighborhood store.
 
-Out of this, our family mark aTea Saloon was reborn.
+Out of this, our 150 year old family mark is reborn to give you 
+
+the finest tea.  
+-aTea Saloon-
