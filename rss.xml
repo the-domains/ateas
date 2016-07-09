@@ -4,8 +4,15 @@
         <description><![CDATA[Fine Tea Curator ]]></description>
         <link>https://thegrid.ai/ateas/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Jul 2016 12:00:13 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jul 2016 12:00:59 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ateas/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Sui Generis]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c6d5c88f-dca5-4917-bf4b-af03a808e462.jpg">]]></description>
+            <link>https://thegrid.ai/ateas/sui-generis/index.html</link>
+            <guid isPermaLink="false">6a047502-faea-4254-bdd3-976a9a4f8b56</guid>
+            <pubDate>Sat, 09 Jul 2016 12:00:57 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Prime]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/af1723eb-0906-43a9-b3c8-498a6eb0b7db.jpg">]]></description>
@@ -40,13 +47,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/7a83e90c-757a-4818-88d7-18dbfff57548.jpg</link>
             <guid isPermaLink="false">ffd01771-64a7-4186-acb5-ec13d451e300</guid>
             <pubDate>Sat, 09 Jul 2016 09:40:45 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sui Generis]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c6d5c88f-dca5-4917-bf4b-af03a808e462.jpg">]]></description>
-            <link>https://thegrid.ai/ateas/sui-generis/index.html</link>
-            <guid isPermaLink="false">6a047502-faea-4254-bdd3-976a9a4f8b56</guid>
-            <pubDate>Sat, 09 Jul 2016 10:52:53 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
