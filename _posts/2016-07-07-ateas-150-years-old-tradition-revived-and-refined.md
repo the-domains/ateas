@@ -1,20 +1,32 @@
 ---
-inFeed: true
-hasPage: true
-inNav: true
-inLanguage: null
-keywords: []
-description: 'aTeas 150 years old tradition revived and refined '
-datePublished: '2016-07-07T15:20:15.345Z'
-dateModified: '2016-07-07T15:20:05.051Z'
-title: ''
-author: []
+datePublished: '2016-07-09T07:39:50.115Z'
 sourcePath: _posts/2016-07-07-ateas-150-years-old-tradition-revived-and-refined.md
+inFeed: true
+isBasedOnUrl: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/7a83e90c-757a-4818-88d7-18dbfff57548.jpg
 authors: []
+hasPage: false
+keywords: []
+author: []
+dateModified: '2016-07-09T07:38:52.246Z'
+title: ''
 publisher: null
+description: aTea Saloon 150 years old tradition revived
+inLanguage: null
+inNav: false
 starred: false
-url: ateas-150-years-old-tradition-revived-and-refined/index.html
-_type: Article
+_type: MediaObject
 
 ---
-aTeas 150 years old tradition revived and refined ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7a83e90c-757a-4818-88d7-18dbfff57548.jpg)
+aTea Saloon 150 years old tradition revived
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7a83e90c-757a-4818-88d7-18dbfff57548.jpg)
+
+History is a funny thing, the more things change, the more they stay the same. 
+
+There was a time when artisan products were the norm, pride was taken in making a beautiful product, the community it served, your neighbors were life time customers.
+
+Mass production was simply impossible, until it is, Industrial Revolution seemed to have the world on a fever for cheap, low quality stuff. Digital technology took Humanity to new heights as innovations in technology always does, but somehow somewhere we always look back and realize, what have we been doing? 
+
+Now the same moment has returned, expression for art as The Renaissance bought back balance to mankind during The Dark Ages. We no longer demand dollar t-shirts that are poorly made, throw away razors that simply doesn't work, and drinks that are fast but taste horrifying. 
+
+Out of this collective consciousness to find balance, the world found itself drawn to Michelangelo, Raphael, Da Vinci and the masters of High Renaissance, just as today we look at Apple Inc., the startups, designers, architects, and your hip new neighborhood store.
