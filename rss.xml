@@ -4,7 +4,7 @@
         <description><![CDATA[aTeas]]></description>
         <link>https://thegrid.ai/ateas/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Jul 2016 06:36:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jul 2016 07:39:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ateas/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -12,6 +12,13 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/c61b2b6e-3ffb-4bf5-8fb9-958839b31e93.jpg</link>
             <guid isPermaLink="false">14d91f7d-bcba-495e-b880-207b2e50d4ec</guid>
             <pubDate>Sat, 09 Jul 2016 06:36:11 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tradition]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7a83e90c-757a-4818-88d7-18dbfff57548.jpg">]]></description>
+            <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/7a83e90c-757a-4818-88d7-18dbfff57548.jpg</link>
+            <guid isPermaLink="false">ffd01771-64a7-4186-acb5-ec13d451e300</guid>
+            <pubDate>Sat, 09 Jul 2016 07:39:50 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
@@ -40,13 +47,6 @@
             <link>https://thegrid.ai/ateas/the-silk-road-was-born/index.html</link>
             <guid isPermaLink="false">1a0fbc72-db05-46ab-98ba-c009e1670e7a</guid>
             <pubDate>Thu, 07 Jul 2016 15:25:50 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[No title]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/7a83e90c-757a-4818-88d7-18dbfff57548.jpg">]]></description>
-            <link>https://thegrid.ai/ateas/ateas-150-years-old-tradition-revived-and-refined/index.html</link>
-            <guid isPermaLink="false">ffd01771-64a7-4186-acb5-ec13d451e300</guid>
-            <pubDate>Thu, 07 Jul 2016 15:20:15 GMT</pubDate>
         </item>
     </channel>
 </rss>
