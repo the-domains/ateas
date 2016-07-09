@@ -21,7 +21,7 @@ analytics:
   twitter: null
 author:
   name: 'Thom LaFay '
-name: 'aTea Saloon '
+name: 'Fine Tea Curator '
 cta:
   domain: null
   bucket: null
@@ -39,5 +39,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: 'Fine Tea Curator '
+title: aTea Saloon
 purpose: []
