@@ -1,12 +1,12 @@
 ---
-datePublished: '2016-07-09T09:29:02.822Z'
+datePublished: '2016-07-09T09:34:17.707Z'
 sourcePath: _posts/2016-07-09-sui-generis.md
 inFeed: true
 authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-07-09T09:28:56.238Z'
+dateModified: '2016-07-09T09:34:12.482Z'
 title: ''
 publisher: null
 description: Sui Generis
@@ -21,9 +21,9 @@ _type: Article
 
 Sui Generis
 
-Limited Singles
+Rare & Limited 
 
-A collection of rare finds so you can enjoy, rather than dig, like a museum.
+A collection of extraordinary finds so you can enjoy, rather than dig, like a museum.
 
 Sui Generis, our limited collection, sometimes we have 40 year old pre-revolution pu-er other times it might be a red, green or lapsang souchong. Always expect the most delightful and curious flavors you've tasted.
 
