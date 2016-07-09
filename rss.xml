@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[aTeas]]></title>
-        <description><![CDATA[aTeas]]></description>
+        <title><![CDATA[Fine Tea Curator ]]></title>
+        <description><![CDATA[Fine Tea Curator ]]></description>
         <link>https://thegrid.ai/ateas/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Jul 2016 10:53:14 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Jul 2016 11:55:14 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ateas/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
@@ -21,18 +21,18 @@
             <pubDate>Sat, 09 Jul 2016 09:40:45 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Bloom]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fa7fc7a7-255d-4804-a04e-d4786ff5c772.jpg" alt="Bloom">]]></description>
+            <link>https://thegrid.ai/ateas/bloom/index.html</link>
+            <guid isPermaLink="false">b9c43933-5b1b-4eea-b0e0-dec678c6fbe0</guid>
+            <pubDate>Sat, 09 Jul 2016 11:54:40 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Sui Generis]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c6d5c88f-dca5-4917-bf4b-af03a808e462.jpg">]]></description>
             <link>https://thegrid.ai/ateas/sui-generis/index.html</link>
             <guid isPermaLink="false">6a047502-faea-4254-bdd3-976a9a4f8b56</guid>
             <pubDate>Sat, 09 Jul 2016 10:52:53 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bloom]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fa7fc7a7-255d-4804-a04e-d4786ff5c772.jpg">]]></description>
-            <link>https://thegrid.ai/ateas/bloom/index.html</link>
-            <guid isPermaLink="false">b9c43933-5b1b-4eea-b0e0-dec678c6fbe0</guid>
-            <pubDate>Sat, 09 Jul 2016 10:40:01 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Prime]]></title>
