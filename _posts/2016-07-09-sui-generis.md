@@ -1,18 +1,18 @@
 ---
-datePublished: '2016-07-09T10:52:53.574Z'
+datePublished: '2016-07-09T12:00:57.206Z'
 sourcePath: _posts/2016-07-09-sui-generis.md
 inFeed: true
 authors: []
 hasPage: true
 keywords: []
 author: []
-dateModified: '2016-07-09T10:52:50.356Z'
+dateModified: '2016-07-09T12:00:56.541Z'
 title: ''
 publisher: null
 description: Sui Generis
 inLanguage: null
 inNav: true
-starred: false
+starred: true
 url: sui-generis/index.html
 _type: Article
 
