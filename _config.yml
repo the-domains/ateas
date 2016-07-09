@@ -1,8 +1,30 @@
-name: aTeas
-favicon: null
-layout_spectrum: 0.203570154029876
 typography_spectrum: 0.32280511828139424
-title: aTeas
+color:
+  brandColors:
+    - '#36362C'
+    - '#5D917D'
+    - '#A8AD80'
+    - '#E6D4A7'
+    - '#825534'
+  brandStrength: 0.13428691495209932
+  lightness: 0.10931874183006585
+  saturation: 0.9677282427437603
+  rhythmicContrast: 0.15979467518627644
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.203570154029876
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: aTeas
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 collections:
   - index:
       path: /
@@ -15,27 +37,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#36362C'
-    - '#5D917D'
-    - '#A8AD80'
-    - '#E6D4A7'
-    - '#825534'
-  brandStrength: 0.13428691495209932
-  lightness: 0.10931874183006585
-  saturation: 0.9677282427437603
-  rhythmicContrast: 0.15979467518627644
+title: aTeas
 purpose: []
