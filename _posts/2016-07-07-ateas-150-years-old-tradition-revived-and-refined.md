@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-10T09:46:19.280Z'
+datePublished: '2016-07-10T09:49:43.241Z'
 sourcePath: _posts/2016-07-07-ateas-150-years-old-tradition-revived-and-refined.md
 inFeed: true
 isBasedOnUrl: >-
@@ -8,15 +8,15 @@ authors: []
 hasPage: false
 keywords: []
 author: []
-dateModified: '2016-07-10T09:46:15.835Z'
+dateModified: '2016-07-10T09:49:42.252Z'
 title: ''
 publisher: null
 description: >-
-  History is a funny thing, the more things change, the more they stay the same.
-  - Hendrick Willem van Loon, The Story of Mankind -
+  History is a funny thing, the more things change, the more they stay the
+  same.- Hendrick Willem van Loon, The Story of Mankind -
 inLanguage: null
 inNav: false
-starred: true
+starred: false
 _type: MediaObject
 
 ---
