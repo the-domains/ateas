@@ -4,15 +4,8 @@
         <description><![CDATA[aTea Saloon]]></description>
         <link>https://thegrid.ai/ateas/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 10 Jul 2016 10:02:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 10 Jul 2016 10:02:25 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ateas/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Sui Generis]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c6d5c88f-dca5-4917-bf4b-af03a808e462.jpg">]]></description>
-            <link>https://thegrid.ai/ateas/sui-generis/index.html</link>
-            <guid isPermaLink="false">6a047502-faea-4254-bdd3-976a9a4f8b56</guid>
-            <pubDate>Sun, 10 Jul 2016 10:02:24 GMT</pubDate>
-        </item>
         <item>
             <title><![CDATA[Tradition]]></title>
             <description><![CDATA[<p>History is a funny thing, the more things change, the more they stay the same.- Hendrick Willem van Loon, The Story of Mankind -</p>]]></description>
@@ -40,6 +33,13 @@
             <link>https://thegrid.ai/ateas/virgin/index.html</link>
             <guid isPermaLink="false">ab67dc7e-fd0f-4e01-8bc9-6b47db844d28</guid>
             <pubDate>Sun, 10 Jul 2016 09:52:32 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Sui Generis]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c6d5c88f-dca5-4917-bf4b-af03a808e462.jpg">]]></description>
+            <link>https://thegrid.ai/ateas/sui-generis/index.html</link>
+            <guid isPermaLink="false">6a047502-faea-4254-bdd3-976a9a4f8b56</guid>
+            <pubDate>Sun, 10 Jul 2016 09:52:29 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Bloom]]></title>
