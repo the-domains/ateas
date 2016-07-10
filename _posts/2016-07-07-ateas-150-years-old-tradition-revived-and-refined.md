@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-10T06:59:41.969Z'
+datePublished: '2016-07-10T09:37:35.425Z'
 sourcePath: _posts/2016-07-07-ateas-150-years-old-tradition-revived-and-refined.md
 inFeed: true
 isBasedOnUrl: >-
@@ -8,7 +8,7 @@ authors: []
 hasPage: false
 keywords: []
 author: []
-dateModified: '2016-07-10T06:59:24.163Z'
+dateModified: '2016-07-10T09:37:03.610Z'
 title: ''
 publisher: null
 description: >-
@@ -23,9 +23,9 @@ _type: MediaObject
 History is a funny thing, the more things change, the more they stay the same.  
 - Hendrick Willem van Loon, _The Story of Mankind_ -
 
-There was a time when artisan products were the norm, pride was taken in making a beautiful product, the community it served, your neighbors were life time customers.
+There was a time when artisan products were the norm, pride was taken in making a beautiful product, the community it served, your neighbors were life time customers. 
 
-Mass production was simply not possible, until it is, Industrial Revolution seemed to have the world on a fever for cheap, low quality stuff. Digital technology took Humanity to new heights as innovations in technology always does, but somehow somewhere we always look back and realize, what have we been doing?
+It was a time when mass production was simply not possible, until it is, Industrial Revolution seemed to have the world on a fever for cheap, low quality stuff. Digital technology took Humanity to new heights as innovations in technology always does, but somehow somewhere we always look back and realize, what have we been doing?
 
 Now the same moment has returned, expression for art as The Renaissance bought back balance to mankind during The Dark Ages. We no longer demand dollar t-shirts that are poorly made, throw away razors that simply don't work, and drinks that are fast but taste horrifying.
 
