@@ -21,7 +21,7 @@ analytics:
   twitter: null
 author:
   name: Thom LaFay
-name: a tea_lie
+name: a tea_lier
 cta:
   domain: null
   bucket: null
@@ -39,5 +39,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: aTea Saloon
+title: purposeful tea
 purpose: []
