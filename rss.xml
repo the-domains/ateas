@@ -4,8 +4,22 @@
         <description><![CDATA[a tea_lier]]></description>
         <link>https://thegrid.ai/ateas/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 15 Jul 2016 03:43:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2016 05:37:45 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ateas/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Prime]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/af1723eb-0906-43a9-b3c8-498a6eb0b7db.jpg">]]></description>
+            <link>https://thegrid.ai/ateas/prime/index.html</link>
+            <guid isPermaLink="false">fcad7321-a625-4e10-8178-0836d17899ad</guid>
+            <pubDate>Fri, 15 Jul 2016 05:37:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Bloom]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fa7fc7a7-255d-4804-a04e-d4786ff5c772.jpg" alt="Bloom">]]></description>
+            <link>https://thegrid.ai/ateas/bloom/index.html</link>
+            <guid isPermaLink="false">b9c43933-5b1b-4eea-b0e0-dec678c6fbe0</guid>
+            <pubDate>Fri, 15 Jul 2016 05:36:59 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c1717e52-6f3a-420c-868f-8cba76e4e19f.jpg">]]></description>
@@ -33,20 +47,6 @@
             <link>https://thegrid.ai/ateas/sui-generis/index.html</link>
             <guid isPermaLink="false">6a047502-faea-4254-bdd3-976a9a4f8b56</guid>
             <pubDate>Sun, 10 Jul 2016 10:22:11 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Prime]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/af1723eb-0906-43a9-b3c8-498a6eb0b7db.jpg">]]></description>
-            <link>https://thegrid.ai/ateas/prime/index.html</link>
-            <guid isPermaLink="false">fcad7321-a625-4e10-8178-0836d17899ad</guid>
-            <pubDate>Sun, 10 Jul 2016 10:22:09 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Bloom]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/fa7fc7a7-255d-4804-a04e-d4786ff5c772.jpg" alt="Bloom">]]></description>
-            <link>https://thegrid.ai/ateas/bloom/index.html</link>
-            <guid isPermaLink="false">b9c43933-5b1b-4eea-b0e0-dec678c6fbe0</guid>
-            <pubDate>Sun, 10 Jul 2016 10:22:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
