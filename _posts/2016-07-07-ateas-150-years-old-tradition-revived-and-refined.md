@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-15T05:56:18.448Z'
+datePublished: '2016-07-15T08:22:50.647Z'
 sourcePath: _posts/2016-07-07-ateas-150-years-old-tradition-revived-and-refined.md
 inFeed: true
 isBasedOnUrl: >-
@@ -8,7 +8,7 @@ authors: []
 hasPage: false
 keywords: []
 author: []
-dateModified: '2016-07-15T05:56:15.577Z'
+dateModified: '2016-07-15T08:22:46.551Z'
 title: ''
 publisher: null
 description: >-
@@ -24,6 +24,8 @@ History is a funny thing, the more things change, the more they stay the same.
 - Hendrick Willem van Loon, _The Story of Mankind_ -
 
 There was a time when artisan products were the norm, pride was taken in making a beautiful product, the community it served, our neighbors were life long customers.
+
+Read more....
 
 It was a time when mass production was simply not possible, until it is, Industrial Revolution seemed to have the world on a fever for cheap, low quality stuff. Digital technology took Humanity to new heights as innovations in technology always does, but somehow somewhere we always look back and realize, what have we been doing?
 
