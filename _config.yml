@@ -21,7 +21,7 @@ analytics:
   twitter: null
 author:
   name: Thom LaFay
-name: '<span style="letter-spacing: 0.1px;">CHá&nbsp;</span>Symposium'
+name: Symposium CHá
 cta:
   domain: null
   bucket: null
@@ -39,5 +39,5 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-title: a tea_lier
+title: Symposium CHá
 purpose: []
