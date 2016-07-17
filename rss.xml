@@ -4,7 +4,7 @@
         <description><![CDATA[Symposium CHá]]></description>
         <link>https://thegrid.ai/ateas/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 17 Jul 2016 06:09:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Jul 2016 07:20:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ateas/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Tradition]]></title>
@@ -47,6 +47,13 @@
             <link>https://thegrid.ai/ateas/bloom/index.html</link>
             <guid isPermaLink="false">b9c43933-5b1b-4eea-b0e0-dec678c6fbe0</guid>
             <pubDate>Fri, 15 Jul 2016 05:36:59 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Symposium</p>]]></description>
+            <link>https://thegrid.ai/ateas/symposium/index.html</link>
+            <guid isPermaLink="false">6d00a888-046d-41fc-810b-78eeebbaa053</guid>
+            <pubDate>Sun, 17 Jul 2016 07:19:45 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[No title]]></title>
