@@ -1,5 +1,5 @@
 ---
-datePublished: '2016-07-15T08:22:50.647Z'
+datePublished: '2016-07-17T06:06:33.631Z'
 sourcePath: _posts/2016-07-07-ateas-150-years-old-tradition-revived-and-refined.md
 inFeed: true
 isBasedOnUrl: >-
@@ -8,7 +8,7 @@ authors: []
 hasPage: false
 keywords: []
 author: []
-dateModified: '2016-07-15T08:22:46.551Z'
+dateModified: '2016-07-17T06:06:29.162Z'
 title: ''
 publisher: null
 description: >-
@@ -25,7 +25,7 @@ History is a funny thing, the more things change, the more they stay the same.
 
 There was a time when artisan products were the norm, pride was taken in making a beautiful product, the community it served, our neighbors were life long customers.
 
-Read more....
+Read more...
 
 It was a time when mass production was simply not possible, until it is, Industrial Revolution seemed to have the world on a fever for cheap, low quality stuff. Digital technology took Humanity to new heights as innovations in technology always does, but somehow somewhere we always look back and realize, what have we been doing?
 
