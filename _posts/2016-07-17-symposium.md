@@ -1,18 +1,22 @@
 ---
-datePublished: '2016-07-21T11:08:10.393Z'
-sourcePath: _posts/2016-07-17-symposium.md
 inFeed: true
-authors: []
 hasPage: true
+inNav: true
+inLanguage: null
 keywords: []
+description: Symposium
+datePublished: '2016-07-21T11:11:03.839Z'
+dateModified: '2016-07-21T11:10:41.167Z'
+sourcePath: _posts/2016-07-17-symposium.md
 author: []
 via: {}
-dateModified: '2016-07-21T11:08:09.748Z'
 title: ''
-publisher: {}
-description: Symposium
-inLanguage: null
-inNav: true
+authors: []
+publisher:
+  name: null
+  domain: null
+  url: null
+  favicon: null
 starred: false
 url: symposium/index.html
 _type: Article
