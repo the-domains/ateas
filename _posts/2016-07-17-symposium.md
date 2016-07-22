@@ -5,8 +5,8 @@ inNav: true
 inLanguage: null
 keywords: []
 description: Symposium
-datePublished: '2016-07-21T11:13:01.543Z'
-dateModified: '2016-07-21T11:12:48.469Z'
+datePublished: '2016-07-22T05:37:36.164Z'
+dateModified: '2016-07-21T11:13:34.841Z'
 sourcePath: _posts/2016-07-17-symposium.md
 author: []
 via: {}
