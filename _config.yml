@@ -1,9 +1,32 @@
-name: FLUOUS
-favicon: null
-layout_spectrum: 0.6414808321278542
 typography_spectrum: 0.4825880783610046
+color:
+  brandColors:
+    - '#B0CC99'
+    - '#677E52'
+    - '#B7CA79'
+    - '#F6E8B1'
+    - '#89725B'
+  brandStrength: 0.022048987913876772
+  lightness: 0.6721573325339705
+  saturation: 0.8644008347764611
+  rhythmicContrast: 0.22931991633959115
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.6414808321278542
+analytics:
+  google: null
+  facebook: null
+  twitter: null
 author:
   name: Thom LaFay
+name: FLUOUS
+cta:
+  domain: null
+  bucket: null
+  version: null
+favicon: null
 collections:
   - index:
       path: /
@@ -17,27 +40,4 @@ collections:
       format: rss
       number: 10
 title: FLUOUS TEA
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
-color:
-  brandColors:
-    - '#B0CC99'
-    - '#677E52'
-    - '#B7CA79'
-    - '#F6E8B1'
-    - '#89725B'
-  brandStrength: 0.022048987913876772
-  lightness: 0.6721573325339705
-  saturation: 0.8644008347764611
-  rhythmicContrast: 0.22931991633959115
 purpose: []
