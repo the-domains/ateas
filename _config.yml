@@ -42,6 +42,9 @@ navigation:
   - name: Pristine
     id: ab67dc7e-fd0f-4e01-8bc9-6b47db844d28
     type: content
+  - name: Symposium
+    id: 6d00a888-046d-41fc-810b-78eeebbaa053
+    type: content
 favicon: null
 collections:
   - index:
