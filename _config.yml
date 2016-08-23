@@ -36,6 +36,9 @@ navigation:
   - name: Bloom
     id: b9c43933-5b1b-4eea-b0e0-dec678c6fbe0
     type: content
+  - name: Prime
+    id: fcad7321-a625-4e10-8178-0836d17899ad
+    type: content
 favicon: null
 collections:
   - index:
