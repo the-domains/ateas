@@ -21,7 +21,7 @@ analytics:
   twitter: null
 author:
   name: Thom LaFay
-name: téVita
+name: tèVita
 cta:
   domain: null
   bucket: null
@@ -29,6 +29,9 @@ cta:
 navigation:
   - name: Info
     id: a08d3ca7-e52e-4d50-a9e0-150bc1c29da1
+    type: content
+  - name: Sui Generis
+    id: 6a047502-faea-4254-bdd3-976a9a4f8b56
     type: content
 favicon: null
 collections:
