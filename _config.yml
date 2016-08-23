@@ -26,6 +26,10 @@ cta:
   domain: null
   bucket: null
   version: null
+navigation:
+  - name: Info
+    id: a08d3ca7-e52e-4d50-a9e0-150bc1c29da1
+    type: content
 favicon: null
 collections:
   - index:
