@@ -1,11 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[FLUOUS TEA]]></title>
-        <description><![CDATA[FLUOUS TEA]]></description>
+        <title><![CDATA[téVita]]></title>
+        <description><![CDATA[téVita]]></description>
         <link>https://thegrid.ai/ateas/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 22 Jul 2016 07:36:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Aug 2016 08:31:50 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/ateas/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Sui Generis]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c6d5c88f-dca5-4917-bf4b-af03a808e462.jpg">]]></description>
+            <link>https://thegrid.ai/ateas/sui-generis/index.html</link>
+            <guid isPermaLink="false">6a047502-faea-4254-bdd3-976a9a4f8b56</guid>
+            <pubDate>Tue, 23 Aug 2016 08:31:35 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Pristine]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/6c8e6756-9608-498d-8b79-5f725e36f0f6.jpg">]]></description>
@@ -26,13 +33,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/7a83e90c-757a-4818-88d7-18dbfff57548.jpg</link>
             <guid isPermaLink="false">ffd01771-64a7-4186-acb5-ec13d451e300</guid>
             <pubDate>Tue, 19 Jul 2016 05:58:26 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Sui Generis]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c6d5c88f-dca5-4917-bf4b-af03a808e462.jpg">]]></description>
-            <link>https://thegrid.ai/ateas/sui-generis/index.html</link>
-            <guid isPermaLink="false">6a047502-faea-4254-bdd3-976a9a4f8b56</guid>
-            <pubDate>Fri, 15 Jul 2016 05:37:35 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Prime]]></title>
